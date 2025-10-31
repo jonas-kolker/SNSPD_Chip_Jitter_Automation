@@ -54,6 +54,6 @@ There will also be a `.txt` file that stores offset values. Whie the program is 
 ## Key Bugs/Quirks to Note
 See sections 4 and 6 of the **Automating Jitter Measurements for SNSPD Readout Chip** report for details on data and processings quirks to be aware of. 
 
-### How scope data is saved (from main.py)
+## How scope data is saved (from main.py)
 See section 6 of the **Automating Jitter Measurements for SNSPD Readout Chip** report for details on the file naming conventions. 
 
